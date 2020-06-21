@@ -18,5 +18,5 @@ Using various numbers of epochs and window sizes, the closing price model accura
 
 The FNG index did a fairly good job of predicting price swings up until 20 days ago, which coincides with the exepcted halving event in BTC. The large swings show the inability of past FNG data to accurately predict during highly speculative times. 
 
-
+A more detailed writeup can be found here https://www.linkedin.com/pulse/predict-bitcoin-using-deep-learning-roger-hahn 
 
