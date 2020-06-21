@@ -1,10 +1,10 @@
-# LTSM BTC price predictor
+# LSTM BTC price predictor
 
 
 
 ## Deep Learning
 
-The code uses LTSM deep learning model from the Keras library to predict BTC prices. Two approaches are taken. The first is using just BTC close prices and applying LTSM. The second approach uses both BTC closes prices and a BTC fear and greed index (fng). https://alternative.me/crypto/fear-and-greed-index/
+The code uses LSTM deep learning model from the Keras library to predict BTC prices. Two approaches are taken. The first is using just BTC close prices and applying LSTM. The second approach uses both BTC closes prices and a BTC fear and greed index (FNG). https://alternative.me/crypto/fear-and-greed-index/
 
 ## Data
 
